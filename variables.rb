@@ -15,4 +15,8 @@ tacos_per_day = 4.5
 # Booleans
 loves_icecream = true
 has_dog = true
-will_run_for_tacos = false 
+will_run_for_tacos = false
+
+name = "Jon"
+favorite_food = "burritos"
+favorite_sport = "BJJ"
