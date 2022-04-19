@@ -11,3 +11,8 @@ weight = 73
 # Floats
 average_sleep = 8.5
 tacos_per_day = 4.5
+
+# Booleans
+loves_icecream = true
+has_dog = true
+will_run_for_tacos = false 
